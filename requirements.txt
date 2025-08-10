@@ -1,0 +1,4 @@
+requests
+websockets
+python-telegram-bot
+pytz
